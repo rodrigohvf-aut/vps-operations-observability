@@ -1,0 +1,41 @@
+# Credentials and environment files
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+credentials/
+secrets/
+config.js
+
+# Databases and backups
+backups/
+*.sql
+*.sql.gz
+*.dump
+*.backup
+
+# Logs and temporary files
+logs/
+*.log
+tmp/
+temp/
+.cache/
+
+# Dependencies
+node_modules/
+vendor/
+
+# System and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Versioned backend migrations
+!backend/migrations/
+!backend/migrations/*.sql
