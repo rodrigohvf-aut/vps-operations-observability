@@ -1,5 +1,7 @@
 # VPS Operations Observability
 
+![VPS Operations Observability project overview](docs/project-overview.png)
+
 An anonymized portfolio implementation of a self-hosted infrastructure observability platform.
 
 This repository shows how operational signals from a VPS-based application environment can be collected, normalized, persisted, queried, and presented through a focused dashboard. It is intentionally structured as a public technical case study: the implementation patterns are preserved, while customer identity, production endpoints, credentials, certificates, operational exports, and the original Git history are not.
