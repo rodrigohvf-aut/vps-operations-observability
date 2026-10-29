@@ -1,6 +1,6 @@
 # VPS Operations Observability
 
-![VPS Operations Observability project overview](docs/project-overview.png)
+![VPS Operations Observability project overview](docs/project-overview-no-title.png)
 
 An anonymized portfolio implementation of a self-hosted infrastructure observability platform.
 
